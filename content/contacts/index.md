@@ -1,6 +1,6 @@
 ---
-title: "Index"
+title: "Contacts"
 date: 2020-09-29T22:18:32+03:00
 draft: true
 ---
-This is the main page
+you can write us to komapc@gmail.com
