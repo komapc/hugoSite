@@ -1,0 +1,34 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "BeMyGuest"
+theme = "ananke"
+
+
+[menu]
+
+ [[menu.main]]
+    identifier = "home"
+    name = "home"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/home/"
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about us"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+
+  [[menu.main]]
+    name = "who we are"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/who/"
+
+  [[menu.main]]
+    name = "screeens"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/screens/"
+
+  [[menu.main]]
+    name = "contacts"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/contacts/"
