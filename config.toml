@@ -13,21 +13,15 @@ theme = "ananke"
       identifier = "home"
       name = "home"
       pre = "<i class='fa fa-heart'></i>"
-      url = "/home/"
+      url = "/"
       weight = -110
 
     [[menu.main]]
       identifier = "about"
       name = "about us"
       pre = "<i class='fa fa-heart'></i>"
-      url = "./about/"
+      url = "/about/"
       weight = -110
-
-    [[menu.main]]
-      name = "who we are"
-      pre = "<i class='fa fa-road'></i>"
-      url = "/who/"
-      weight = -90
 
     [[menu.main]]
       name = "screens"
