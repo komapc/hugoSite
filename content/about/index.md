@@ -1,7 +1,11 @@
 ---
 title: "About"
 date: 2020-09-29T22:18:32+03:00
-draft: true
+draft: false
 ---
-# About
-We are Yana and Mark
+
+## Who we are?
+### Yana
+a graphic designer.
+### Mark
+developer.
