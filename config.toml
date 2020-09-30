@@ -1,4 +1,5 @@
-baseURL = "komapc.github.io"
+baseURL = "https://komapc.github.io/"
+canonifyURLs  = "false"
 languageCode = "en-us"
 title = "BeMyGuest"
 theme = "ananke"

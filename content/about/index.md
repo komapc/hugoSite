@@ -8,4 +8,4 @@ draft: false
 ### Yana
 a graphic designer.
 ### Mark
-developer.
+a developer.
