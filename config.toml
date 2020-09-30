@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "komapc.github.io/hugoSite"
 languageCode = "en-us"
 title = "BeMyGuest"
 theme = "ananke"
