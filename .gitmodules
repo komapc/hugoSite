@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/komapc/komapc.github.io.git
 	branch = master
+[submodule "komapc.github.io"]
+	path = komapc.github.io
+	url = https://github.com/komapc/komapc.github.io.git
+	branch = master
